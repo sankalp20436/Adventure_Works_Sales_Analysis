@@ -11,7 +11,7 @@ The features of this PowerBI dashboard  are -
 * Map feature to know about product order and other related information according to the continent.
 
  <p align ="center" >
-  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/dashboard1.gif" alt="Material Bread logo">
+  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/Dashboard/dashboard1.gif" alt="Material Bread logo">
   </p>
 
 ### Dashboard 2: 
@@ -22,5 +22,21 @@ This dashboard focusssed on the respective product sales analysis. Its featurtes
 * the area graph tells about the weekly return of the products.
 
  <p align ="center" >
-  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/dashboard2.gif" alt="Material Bread logo">
+  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/Dashboard/dashboard2.gif" alt="Material Bread logo">
+  </p>
+
+## Tables 
+* All Tables-
+ <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/Relation%20tables/alltables.jpg" alt="Material Bread logo">
+  </p>
+  
+* Returns Table -
+   <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/Relation%20tables/returns.jpg" alt="Material Bread logo">
+  </p>
+  
+* Sales Table-
+   <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Adventure_Works_Sales_Analysis/blob/main/Relation%20tables/sales.jpg" alt="Material Bread logo">
   </p>
